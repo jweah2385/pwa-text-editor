@@ -8,6 +8,7 @@ This is a pwa text editor that allows the users to download a mobile version of 
 - [Usage](#usage)
 - [License](#license)
 - [Preview](#preview)
+- [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
@@ -27,8 +28,9 @@ This is a preview of the application
 
 <img width="500" alt="Screenshot 2023-11-16 at 12 26 05 PM" src="https://github.com/jweah2385/pwa-text-editor/assets/134350647/e26d107e-821b-44e8-9217-824399d23f60">
 
+## Deployment
 
-
+https://pwa-text-editor2-3aa9684af5e0.herokuapp.com/
 
 ## Technologies Used
 
